@@ -1,8 +1,9 @@
 ### Hi there 👋
 #### I'm Abdalrahman Valabji, a software developer
 
+- 🎓 I've Studied networking at University of science and technologies ( in Sudan )
 - 🔭 I’m currently working on some open source projects available here.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on React-native mobile application / NodeJS Server
 - 🤔 I’m looking for help with Flutter
 - 💬 Ask me about Software development / Freelancing
