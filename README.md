@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm Abdalrahman Valabji, a software developer
+#### I'm Abdalrahman Valabji, a Software Developer
 
 - 🎓 I've Studied networking at University of science and technologies ( in Sudan )
 - 🔭 I’m currently working on some open source projects available here.
