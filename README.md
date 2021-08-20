@@ -1,6 +1,5 @@
 ### Hi there 👋
-#### I'm Abdalrahman Valabji
-##### a software developer
+#### I'm Abdalrahman Valabji, a software developer
 
 - 🔭 I’m currently working on some open source projects available here.
 - 🌱 I’m currently learning ...
